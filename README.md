@@ -1,1 +1,1 @@
-Git Tutorial by Sandeep Kumar
+Git Tutorials by Sandeep Kumar
